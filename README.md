@@ -4,7 +4,7 @@ First Python Application in Udemy Tieto course
 This simple calculator has 11 operation to choose:
 
 0 - Addition
-1 - Substration
+1 - Subraction
 2 - Multiplication
 3 - Division
 4 - Modulo
