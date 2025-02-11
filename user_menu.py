@@ -136,3 +136,7 @@ while True:
 
         else:
             break
+# Handling invalid input
+    else:
+        print("\n Invalid option, please choose one from User menu \n")
+        continue
