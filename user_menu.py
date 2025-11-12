@@ -139,4 +139,5 @@ while True:
 # Handling invalid input
     else:
         print("\n Invalid option, please choose one from User menu \n")
+        print("lala")
         continue
