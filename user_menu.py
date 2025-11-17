@@ -66,7 +66,7 @@ while True:
             break
 # Rising to a power
     elif oper == "5":
-        val1 = float(input("\n First value: "))
+        val1 = float(input("\n First value:  "))
         val2 = float(input("\n Second value: "))
 
         print("\n The result of raising to a power is: " + str(math.pow(val1, val2)) + "\n")
