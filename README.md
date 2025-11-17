@@ -1,5 +1,5 @@
 # calculator
-Python Application
+Python Application.
 
 This simple calculator has 11 operation to choose:
 
