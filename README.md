@@ -15,3 +15,4 @@ This simple calculator has 11 operation to choose:
 9 - Cosine
 10 - Tangent
 
+Choose one and go math!
